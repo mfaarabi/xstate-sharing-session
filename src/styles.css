@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+form {
+  display: inline-grid;
+  gap: 0.5em;
+}
+
+input {
+  border: none;
+  padding: 0.5em;
+  border-radius: 5px;
+}
+
+button {
+  cursor: pointer;
+  border-radius: 5px;
+  height: 2em;
+  border: none;
+  background-color: rgb(224, 36, 94);
+  color: white;
+}
